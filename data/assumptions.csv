@@ -1,0 +1,4 @@
+scenario,starting_units,starting_price,starting_variable_cost,starting_fixed_cost,volume_growth,price_growth,variable_cost_inflation,fixed_cost_inflation
+Downside,1000,120.0,58.0,45000.0,0.015,0.005,0.03,0.035
+Base,1000,120.0,58.0,45000.0,0.03,0.01,0.02,0.025
+Upside,1000,120.0,58.0,45000.0,0.045,0.015,0.015,0.02
