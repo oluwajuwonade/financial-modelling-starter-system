@@ -53,6 +53,13 @@ All assumptions are synthetic and represent a fictional business. They are not m
 
 Python · pandas · NumPy · Excel-compatible outputs · Plotly · financial modelling concepts
 
+## Important limitations
+
+- All assumptions are synthetic and illustrative.
+- Scenario outputs are model responses to stated assumptions, not predictions of a real company.
+- The model is not a substitute for audited financial statements, treasury forecasts, or investment research.
+- Real-world deployment would require company-specific data, accounting policies, validation, and governance.
+
 ## Model governance
 
 The project explicitly separates:
